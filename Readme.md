@@ -1,4 +1,3 @@
-<h1 align="center"><a href="https://lucas-angelo.github.io/portfolio" target="_blank">Personal Portfolio</a></h1>
 
 <h3 align="center">
     <p align="center">
@@ -8,11 +7,6 @@
   </p>
 </h3>
 
-<p align="center">
-  <a href="https://github.com/Lucas-Angelo/portfolio">
-    <img src="./website/img/index.png">
-  </a>
-</p>
 
 ## 🔖 About
 
